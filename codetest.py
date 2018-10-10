@@ -4,7 +4,7 @@ def hello_world():
 
 dit = {(15,'Joseph'):'66%',(33,'Marie'):'50%',(60,'Marc'):'43%',(28,'Ely'):'75%'}
 
-
+# salut
 def scorecalculation(age,name):
 ##    if age == 15 and name == 'Joseph':
 ##        return '66%'
